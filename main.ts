@@ -1,7 +1,8 @@
 console.log("hellow world");
-console.log("how are you");
-console.log("i am fine");
+console.log("what are you doing");
+console.log("nothing iam just sleeping");
 console.log("oh really");
+console.log("yes")
 
 
 
